@@ -1,0 +1,11 @@
+body {
+  padding: 70px;
+}
+.div {
+  padding-bottom: 10px;
+}
+
+.text-right {
+  text-align: right !important;
+}
+

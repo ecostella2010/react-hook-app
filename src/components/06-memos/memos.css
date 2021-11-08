@@ -1,0 +1,29 @@
+body {
+  padding: 70px;
+}
+.div {
+  padding-bottom: 10px;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+
+.blockquote-footer-a {
+  padding-bottom: 10px !important;
+  margin-top: 0 !important;
+  font-size: .675em !important;
+}
+
+.blockquote-p {
+  font-size: .875em !important;
+}
+
+.blockquote {
+  display: flex !important;
+}
+
+button {
+  margin-left: 10px !important;
+}
